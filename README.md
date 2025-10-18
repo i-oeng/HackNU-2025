@@ -1,5 +1,5 @@
 🎬 Unbounded Video Maker — Higgsfield API Automation
-This project demonstrates how to generate AI-driven cinematic videos using the Higgsfield AI Platform — from text-to-image (Soul / Nano Banana models) to image-to-video (DoP Turbo), and finally merging the clips into one seamless video using FFmpeg.
+This project demonstrates how to generate AI-driven cinematic videos using the Higgsfield AI Platform — from text-to-image (Soul) to image-to-video (DoP Turbo), and finally merging the clips into one seamless video using FFmpeg.
 
 🧠 Idea:
 Since Higgsfield DoP has a duration limit, this project automatically splits the user’s prompt into smaller scenes, generates consecutive image frames, converts them into short videos, and concatenates them locally to remove time restrictions.
