@@ -123,9 +123,6 @@ export default function ConSuo() {
           {/* Contact */}
           <ul className="flex flex-wrap items-center justify-start sm:justify-end gap-x-6 gap-y-1 text-sm sm:text-[13px]">
             <li>
-              <a href="mailto:contact@higgsfield.com" className="hover:underline hover:opacity-80 transition-opacity">
-                mikhail.yurikov@nu.edu.kz
-              </a>
             </li>
             <li>
               <a href="tel:+14155551234" className="hover:underline hover:opacity-80 transition-opacity">
