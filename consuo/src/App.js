@@ -125,9 +125,6 @@ export default function ConSuo() {
             <li>
             </li>
             <li>
-              <a href="tel:+14155551234" className="hover:underline hover:opacity-80 transition-opacity">
-                +7 776 310 10 05
-              </a>
             </li>
             <li className="opacity-80">Daily Cup, Nazarbayev University, Astana, Kazakhstan</li>
           </ul>
